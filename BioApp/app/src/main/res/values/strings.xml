@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bio App</string>
+    <string name="home">HOME</string>
+    <string name="men">MEN</string>
+    <string name="women">WOMEN</string>
+    <string name="xxx">xxx</string>
+    <string name="yyy">yyy</string>
+    <string name="name">Name :</string>
+    <string name="nm">name</string>
+    <string name="dob">DOB :</string>
+    <string name="db">dob</string>
+    <string name="country">Country :</string>
+    <string name="cntry">country</string>
+    <string name="prof">Profession :</string>
+    <string name="pro">profession</string>
+    <string name="back">BACK</string>
+    <string name="gallery">Gallery</string>
+    <string name="about">I believes in turning ideas into reality. I taught myself how to write code and live a happy life. I am a State Level Science Fair participant and in 14 days I generated over $30,000 for an online media company. Presently I\'m working on Artificial Intelligence based smart mirror project. Ref.(01\/03\/18)</string>
+</resources>
